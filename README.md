@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate web developer From Pakistan.</h3>
 
-<h3 align="center">An innovative web developer dedicated to crafting seamless user experiences through cutting-edge technologies and creative design solutions..</h3>
+
 	
 
 	
