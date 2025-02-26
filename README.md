@@ -1,4 +1,4 @@
-<h1 align="center">hi I am Malaika Shoukat 👋</h1>
+<h1 align="center">Hi I am Malaika Shoukat 👋</h1>
 
 
 <h3 align="center">A passionate web developer From Pakistan.</h3>
