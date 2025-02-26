@@ -1,7 +1,7 @@
 <h1 align="center">Hi I am Malaika Shoukat 👋</h1>
 
 
-<h3 align="center">A passionate web developer From Pakistan.</h3>
+<h3 align="center">A passionate front-end developer From Pakistan.</h3>
 
 
 	
@@ -15,7 +15,7 @@
 	
 
 	
-<p align="center">- 📚 I'm currently working as a junior web developer at launchpad huddle</p>
+<p align="center">- 📚 I'm currently working as a junior developer at launchpad huddle</p>
 	
 
 	
@@ -29,7 +29,7 @@
 	
 <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=600&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines= computer+Science+Student;web+developer;" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=600&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines= computer+Science+Student;Front+end+developer;" alt="Typing SVG" /> 
 
 </p>
 	
