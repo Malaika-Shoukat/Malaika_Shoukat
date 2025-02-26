@@ -29,7 +29,7 @@
 	
 <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=600&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines= An;AI+Engineer;Data+Analyst;" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=600&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines= computer+Science+Student;web+developer;" alt="Typing SVG" /> 
 
 </p>
 	
